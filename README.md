@@ -1,1 +1,4 @@
-Python Notebooks dealing with basi machine learning scripts
+Python Notebooks dealing with basic machine learning topics:
+- Regression
+- Classification
+- Clustering
