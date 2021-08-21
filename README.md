@@ -1,4 +1,4 @@
-Python Notebooks dealing with basic machine learning topics:
+Jupyter Notebooks dealing with basic machine learning topics:
 - Regression
 - Classification
 - Clustering
